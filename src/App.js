@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>This is the start I promise!!</p>
         <p>Doge approved!🐕</p>
+        <p>does it work with push</p>
       </header>
     </div>
   );
